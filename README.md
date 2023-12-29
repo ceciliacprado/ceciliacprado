@@ -1,4 +1,4 @@
-### Seja bem vindo(a) ao perfil de Cecilia! 👋
+### Seja bem vindo(a) ao perfil de Cecilia! 
 
 Aqui você encontra alguns projetos/atividades que realizei até agora em minha jornada tecnológica! 😉
 
