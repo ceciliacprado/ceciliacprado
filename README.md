@@ -2,13 +2,10 @@
 
 Aqui você encontra alguns projetos/atividades que realizei até agora em minha jornada tecnológica! 😉
 
-- 👀 Atualmente estou a procura de uma oportunidade no mercado de trabalho!
-- 👩‍🎓 Sou estudante de Engenharia de Software, atualmente cursando o terceiro semestre (segundo ano).
-- 📚 Me interesso bastante por assuntos de tecnologia, hoje estou me familiarizando com a linguagem C. 
+- 👩‍🎓 Sou estudante de Engenharia de Software.
+- 📚 Me interesso bastante por assuntos de tecnologia. 
 - 👩‍💻 Além das linguagens de programação me interesso muito por temas sobre gerenciamento de Software e metodologias ágies.
-- 🖋️ Um pouco fora do mundo da programação, temas relacionados a Design e artes também são do meu interesse!
-
-Qualquer interesse para uma oportunidade, favor entrar em contato! 😊
+- 🖋️ Um pouco fora do mundo da programação, temas relacionados a Design também são do meu interesse!
 
  <p> 💻 Linguagens de programação
 <div style="display: inline_block">
