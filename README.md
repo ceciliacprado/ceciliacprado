@@ -1,11 +1,7 @@
-### Seja bem vindo(a) ao perfil de Cecilia! 
+### Welcome! 
 
-Aqui você encontra alguns projetos/atividades que realizei até agora em minha jornada tecnológica! 😉
-
-- 👩‍🎓 Sou estudante de Engenharia de Software.
-- 📚 Me interesso bastante por assuntos de tecnologia. 
-- 👩‍💻 Além das linguagens de programação me interesso muito por temas sobre gerenciamento de Software e metodologias ágies.
-- 🖋️ Um pouco fora do mundo da programação, temas relacionados a Design também são do meu interesse!
+Hello, my name is Cecília, I’m 19 years old, I’m Brazilian and I live in Curitiba, Paraná, Brazil. I’m a software engineering student. 
+I have worked with ruby on rails development since June 2024. 
 
 <br>
 <div> 
