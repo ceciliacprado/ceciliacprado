@@ -1,6 +1,6 @@
 ### Welcome! 
 
-Hello, my name is Cecília, I’m 19 years old, I’m Brazilian and I live in Curitiba, Paraná, Brazil. I’m a software engineering student. 
+Hello, my name is Cecília, I’m Brazilian and I live in Curitiba, Paraná, Brazil. I’m a software engineering student. 
 I have worked with ruby on rails development since June 2024. 
 
 <br>
